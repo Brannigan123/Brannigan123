@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋. I'm Brannigan Sakwah
 
 <!--
 **Brannigan123/Brannigan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=Brannigan123&include_all_commits=true&show_icons=true&hide_border=true&theme=material-palenight)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brannigan123&layout=compact&show_icons=true&hide_border=true&theme=material-palenight&langs_count=8&hide=CMake,CSS)](https://github.com/anuraghazra/github-readme-stats)<br/>
