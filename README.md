@@ -1,22 +1,26 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&fontAlign=80&fontAlignY=40&color=gradient" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&fontAlign=80&fontAlignY=40&color=gradient&customColorList=0,1,2,6,1" width="100%"/>
 
 <div id="header" align="center">
-  
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-
-  <h1>
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Brannigan Sakwah
-  </h1>
   
   <div id="badges">
+  
   <a href=https://www.linkedin.com/in/brannigan-sakwah-454662228/>
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  
   <a href="https://discord.com/users/978014533119520799">
      <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
-     </a>
+  </a>
      
   </div>
+  
+  <img src="https://novatorem-eight-rosy.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff"/>
+  
+  <h1>
+    Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Brannigan Sakwah
+  </h1>
+  
 </div>
 
 </br>
