@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&fontAlign=80&fontAlignY=40&color=gradient" width="100%"/>
 
 <div id="header" align="center">
   
