@@ -65,7 +65,7 @@
 
 <img src = "https://github-profile-trophy-gamma.vercel.app/?username=Brannigan123&column=-1&no-frame=true&theme=nord&margin-w=8"  width=835>
 
-<img  src="https://github-readme-stats-theta-eosin.vercel.app/api/top-langs/?username=Brannigan123&hide=antlr,gap,html,cmake,css,scss,glsl,procfile,jupyter%20notebook&theme=material-palenight&count_private=true&langs_count=10&exclude_repo=Spark-lang&layout=compact&hide_border=true" height=200>
+<img  src="https://github-readme-stats-theta-eosin.vercel.app/api/top-langs/?username=Brannigan123&hide=antlr,gap,jinja,html,cmake,css,scss,glsl,procfile,jupyter%20notebook&theme=material-palenight&count_private=true&langs_count=10&exclude_repo=Spark-lang&layout=compact&hide_border=true" height=200>
 
 <img src = "https://github-readme-stats-theta-eosin.vercel.app/api?username=Brannigan123&show_icons=true&theme=material-palenight&count_private=true&hide_border=true" height=200 >
 
