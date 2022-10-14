@@ -6,13 +6,17 @@
   <div id="badges">
   
   <a href=https://www.linkedin.com/in/brannigan-sakwah-454662228/>
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
   <a href="https://discord.com/users/978014533119520799">
-     <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-     
+  
+   <a href="https://open.spotify.com/user/31iah7denuc7hf65meu6d6hqmvyi">
+     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
+  </a>
+  
   </div>
   
   <img src="https://novatorem-eight-rosy.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff"/>
