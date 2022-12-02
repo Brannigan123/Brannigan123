@@ -57,6 +57,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" title="debian" alt="debian" width="32" height="32"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="32" height="32"/>&nbsp;
   <img src="https://raw.githubusercontent.com/kilian-paquier/devicon/0abefbb7b67585babf86bc502b4b11acf10afde3/icons/archlinux/archlinux-original.svg" title="archlinux" alt="archlinux" width="32" height="32"/>&nbsp;
+   <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Artix_logo.svg" title="artixlinux" alt="artixlinux" width="32" height="32"/>&nbsp;
 </div>
 
 </br>
@@ -65,7 +66,7 @@
 
 <p align = "center">
 
-<img src="https://afternoon-falls-54282.herokuapp.com/graph?username=Brannigan123&bg_color=292d3e&color=bd93f9&line=ff79c6&point=6272a4&area=true&hide_border=true" width=835/>
+<!--<img src="https://afternoon-falls-54282.herokuapp.com/graph?username=Brannigan123&bg_color=292d3e&color=bd93f9&line=ff79c6&point=6272a4&area=true&hide_border=true" width=835/>-->
 
 <img src = "https://github-profile-trophy-gamma.vercel.app/?username=Brannigan123&column=-1&no-frame=true&theme=nord&margin-w=8"  width=835>
 
