@@ -1,33 +1,46 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&fontAlign=80&fontAlignY=40&color=gradient&customColorList=0,1,2,6,1" width="100%"/>
 
 <div id="header" align="center">
+  
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
+   **Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Brannigan Sakwah**  
+  
   <div id="badges">
-  
-  <a href=https://www.linkedin.com/in/brannigan-sakwah-454662228/>
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="https://discord.com/users/978014533119520799">
-     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  
-   <a href="https://open.spotify.com/user/31iah7denuc7hf65meu6d6hqmvyi">
-     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
-  </a>
-  
+    <a href=https://www.linkedin.com/in/brannigan-sakwah-454662228/>
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://discord.com/users/978014533119520799">
+      <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+    </a>
+    <a href="https://open.spotify.com/user/31iah7denuc7hf65meu6d6hqmvyi">
+      <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
+    </a>
   </div>
   
-  <img src="https://novatorem-eight-rosy.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff"/>
+  <br>
   
-  <h1>
-    Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Brannigan Sakwah
-  </h1>
+  <div>
+    <img src="https://novatorem-eight-rosy.vercel.app/api/spotify?background_color=1a1b27&border_color=1a1b27"/>
+  </div>
   
+
+  
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Brannigan123&theme=transparent&date_format=%5BY.%5Dn.j&card_width=650&stroke=BD93F9&currStreakLabel=BD93F9&ring=BD93F9&sideLabels=BD93F9&currStreakNum=BD93F9&sideNums=BD93F9&border=BD93F9&fire=BD93F9&dates=BD93F9" height=200 >
+
 </div>
 
-</br>
+ <br>
+
+<p align = "center">
+  
+<img src = "https://github-profile-trophy-gamma.vercel.app/?username=Brannigan123&column=-1&no-frame=true&theme=tokyonight&margin-w=8"  width=835>
+
+<img  src="https://github-readme-stats-theta-eosin.vercel.app/api/top-langs/?username=Brannigan123&hide=antlr,gap,jinja,html,cmake,css,scss,glsl,procfile,jupyter%20notebook&theme=tokyonight&count_private=true&langs_count=10&exclude_repo=Spark-lang&layout=compact&hide_border=true" height=200>
+
+<img src = "https://github-readme-stats-theta-eosin.vercel.app/api?username=Brannigan123&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height=200 >
+
+</p>
 
 <div id="header" align="center">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="32" height="32"/>&nbsp;
@@ -59,21 +72,3 @@
   <img src="https://raw.githubusercontent.com/kilian-paquier/devicon/0abefbb7b67585babf86bc502b4b11acf10afde3/icons/archlinux/archlinux-original.svg" title="archlinux" alt="archlinux" width="32" height="32"/>&nbsp;
    <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Artix_logo.svg" title="artixlinux" alt="artixlinux" width="32" height="32"/>&nbsp;
 </div>
-
-</br>
-
-<!--4​5**Brannigan123/Brannigan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.6​7Here are some ideas to get you started:8- 🔭 I’m currently working on ...9- 🌱 I’m currently learning ...10- 👯 I’m looking to collaborate on ...11- 🤔 I’m looking for help with ...12- 💬 Ask me about ...13- 📫 How to reach me: ...14- 😄 Pronouns: ...15- ⚡ Fun fact: ...16​17-->
-
-<p align = "center">
-
-<!--<img src="https://afternoon-falls-54282.herokuapp.com/graph?username=Brannigan123&bg_color=292d3e&color=bd93f9&line=ff79c6&point=6272a4&area=true&hide_border=true" width=835/>-->
-
-<img src = "https://github-profile-trophy-gamma.vercel.app/?username=Brannigan123&column=-1&no-frame=true&theme=nord&margin-w=8"  width=835>
-
-<img  src="https://github-readme-stats-theta-eosin.vercel.app/api/top-langs/?username=Brannigan123&hide=antlr,gap,jinja,html,cmake,css,scss,glsl,procfile,jupyter%20notebook&theme=material-palenight&count_private=true&langs_count=10&exclude_repo=Spark-lang&layout=compact&hide_border=true" height=200>
-
-<img src = "https://github-readme-stats-theta-eosin.vercel.app/api?username=Brannigan123&show_icons=true&theme=material-palenight&count_private=true&hide_border=true" height=200 >
-
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=Brannigan123&theme=material-palenight&hide_border=true" height=200>
-
-</p>
