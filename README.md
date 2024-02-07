@@ -56,19 +56,19 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/networkx/networkx-original.svg" title="Networkx" alt="Networkx" width="32" height="32"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="32" height="32"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="32" height="32"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" title="nestjs" alt="nestjs" width="32" height="32"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nextjs/nextjs-original.svg" title="nestjs" alt="nestjs" width="32" height="32"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" title="express.js" alt="express.js" width="32" height="32"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="32" height="32"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="Javacript" alt="Javascript" width="32" height="32"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" title="dart" alt="dart" width="32" height="32"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="32" height="32"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="32" height="32"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="32" height="32"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="32" height="32"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="Vs code" alt="Vs Ccode" width="32" height="32"/>&nbsp;
   <img src="https://raw.githubusercontent.com/kilian-paquier/devicon/develop/icons/intellij/intellij-original.svg" title="intellij" alt="intellij" width="32" height="32"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="32" height="32"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" title="debian" alt="debian" width="32" height="32"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="32" height="32"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="32" height="32"/>&nbsp;
   <img src="https://raw.githubusercontent.com/kilian-paquier/devicon/0abefbb7b67585babf86bc502b4b11acf10afde3/icons/archlinux/archlinux-original.svg" title="archlinux" alt="archlinux" width="32" height="32"/>&nbsp;
    <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Artix_logo.svg" title="artixlinux" alt="artixlinux" width="32" height="32"/>&nbsp;
 </div>
