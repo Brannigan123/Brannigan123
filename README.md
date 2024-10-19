@@ -21,7 +21,7 @@
   <br>
   
   <div>
-    <img src="https://novatorem-eight-rosy.vercel.app/api/spotify?background_color=1a1b27&border_color=1a1b27" height=150/>
+    <img src="https://novatorem-eight-rosy.vercel.app/api/spotify?background_color=1a1b27&border_color=1a1b27"/>
   </div>
 </div>
 
