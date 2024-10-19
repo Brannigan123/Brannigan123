@@ -21,14 +21,12 @@
   <br>
   
   <div>
-    <img src="https://novatorem-eight-rosy.vercel.app/api/spotify?background_color=1a1b27&border_color=1a1b27"/>
+    <img src="https://novatorem-eight-rosy.vercel.app/api/spotify?background_color=1a1b27&border_color=1a1b27" height=150/>
   </div>
 </div>
 
- <br>
-
 <p align = "center">
-  <img src = "https://github-profile-trophy-gamma.vercel.app/?username=Brannigan123&column=-1&no-frame=true&theme=tokyonight&margin-w=8"  width=835>
-  <img  src="https://github-readme-stats-theta-eosin.vercel.app/api/top-langs/?username=Brannigan123&hide=antlr,gap,jinja,html,cmake,css,scss,glsl,procfile,jupyter%20notebook&theme=tokyonight&count_private=true&langs_count=10&exclude_repo=Spark-lang&layout=compact&hide_border=true" height=200>
-  <img src = "https://github-readme-stats-theta-eosin.vercel.app/api?username=Brannigan123&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height=200 >
+  <img src = "https://github-profile-trophy-gamma.vercel.app/?username=Brannigan123&column=-1&no-frame=true&theme=tokyonight&margin-w=8"  width=100%>
+  <img src = "https://github-readme-stats-theta-eosin.vercel.app/api?username=Brannigan123&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height=269 >
+  <img  src="https://github-readme-stats-theta-eosin.vercel.app/api/top-langs/?username=Brannigan123&hide=antlr,gap,jinja,html,cmake,css,scss,glsl,procfile,jupyter%20notebook&theme=tokyonight&count_private=true&langs_count=16&layout=compact&hide_border=true" height=269>
 </p>
