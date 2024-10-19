@@ -27,6 +27,6 @@
 
 <p align = "center">
   <img src = "https://github-profile-trophy-gamma.vercel.app/?username=Brannigan123&column=-1&no-frame=true&theme=tokyonight&margin-w=8"  width=100%>
-  <img src = "https://github-readme-stats-theta-eosin.vercel.app/api?username=Brannigan123&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height=269 >
-  <img  src="https://github-readme-stats-theta-eosin.vercel.app/api/top-langs/?username=Brannigan123&hide=antlr,gap,jinja,html,cmake,css,scss,glsl,procfile,jupyter%20notebook&theme=tokyonight&count_private=true&langs_count=16&layout=compact&hide_border=true" height=269>
+  <img  src="https://github-readme-stats-theta-eosin.vercel.app/api/top-langs/?username=Brannigan123&hide=antlr,gap,jinja,html,cmake,css,scss,glsl,procfile,jupyter%20notebook,less,DockerFile,MakeFile,Scheme,nix&theme=tokyonight&count_private=true&langs_count=16&layout=compact&hide_border=true&custom_title=Languages" width=100% >
+  <img src = "https://github-readme-stats-theta-eosin.vercel.app/api?username=Brannigan123&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width=100% >
 </p>
