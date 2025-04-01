@@ -4,7 +4,9 @@
   
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
-   **Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Brannigan Sakwah**  
+   **Hey there </br>
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </br>
+   I'm Brannigan Sakwah**  
   
   <div id="badges">
     <a href=https://www.linkedin.com/in/brannigan-sakwah-454662228/>
